@@ -6,6 +6,6 @@
 - ✅ 004-reverse Integer
 - ✅ 005-longest Substring Without Repeating characters
 - ✅ 006-zigzag-conversion
+- ✅ 007-longest-common-prefix
 
-
-#npx tsx solutions/006-zigzag-conversion
+#npx tsx solutions/007-longest-common-prefix.ts
