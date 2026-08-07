@@ -7,5 +7,5 @@
 - ✅ 005-longest Substring Without Repeating characters
 - ✅ 006-zigzag-conversion
 - ✅ 007-longest-common-prefix
-
-#npx tsx solutions/007-longest-common-prefix.ts
+- ✅ 008-3sum-closest
+#npx tsx solutions/008-3sum-closest.ts
