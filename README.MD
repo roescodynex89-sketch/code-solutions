@@ -8,4 +8,9 @@
 - ✅ 006-zigzag-conversion
 - ✅ 007-longest-common-prefix
 - ✅ 008-3sum-closest
-#npx tsx solutions/008-3sum-closest.ts
+- ✅ 009-valid-parentheses
+
+
+
+
+#npx tsx solutions/009-valid-parentheses.ts
